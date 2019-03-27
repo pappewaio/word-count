@@ -7,7 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+Do git clone https://github.com/pappewaio/word-count.git
 
 
 Make
@@ -23,10 +23,10 @@ Generate all results:
 Snakemake
 ---------
 
-Write me ...
+A really good software for automating a workflow
 
 
 Where to find the results
 -------------------------
 
-Write me ...
+results within this project is in the _build folder
